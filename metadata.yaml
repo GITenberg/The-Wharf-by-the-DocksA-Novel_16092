@@ -1,0 +1,28 @@
+_repo: The-Wharf-by-the-DocksA-Novel_16092
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warden, Florence
+    alias: James, Florence Alice Price
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '6480'
+    url: http://www.gutenberg.org/2009/agents/6480
+description: ''
+gutenberg_issued: '2005-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Dime novels'
+- !lcsh 'Romantic suspense fiction'
+title: 'The Wharf by the Docks: A Novel'
+url: http://www.gutenberg.org/ebooks/16092
